@@ -1,5 +1,4 @@
-{
-  "cemig2018": [
+[
         { "month": 1, "kwh": 118, "price": 105.53, "unit": 0.76},
         { "month": 2, "kwh": 193, "price": 160.08, "unit": 0.74},
         { "month": 3, "kwh": 151, "price": 133.76, "unit": 0.78},
@@ -12,5 +11,4 @@
         { "month": 10, "kwh": 203, "price": 217.24, "unit": 0.94},
         { "month": 11, "kwh": 192, "price": 200.86, "unit": 0.94},
         { "month": 12, "kwh": 174, "price": 184.26, "unit": 0.95}
-  ]
-}
+]
