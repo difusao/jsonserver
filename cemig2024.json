@@ -1,0 +1,14 @@
+[
+        { "month": 1, "kwh": 151, "price": 167.98, "unit": 0.95},
+        { "month": 2, "kwh": 133, "price": 150.54, "unit": 0.96},
+        { "month": 3, "kwh": 148, "price": 164.56, "unit": 0.95},
+        { "month": 4, "kwh": 175, "price": 190.92, "unit": 0.95},
+        { "month": 5, "kwh": 163, "price": 180.00, "unit": 0.95},
+        { "month": 6, "kwh": 177, "price": 203.81, "unit": 1.00},
+        { "month": 7, "kwh": 212, "price": 251.22, "unit": 1.03},
+        { "month": 8, "kwh": 177, "price": 206.10, "unit": 1.02},
+        { "month": 9, "kwh": 177, "price": 213.97, "unit": 1.05},
+        { "month": 10, "kwh": 204, "price": 259.27, "unit": 1.09},
+        { "month": 11, "kwh": 170, "price": 204.89, "unit": 1.05},
+        { "month": 12, "kwh": 148, "price": 174.19, "unit": 1.01}
+]
