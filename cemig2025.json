@@ -1,14 +1,14 @@
 [
         { "month": 1, "kwh": 131, "price": 123.70, "unit": 1.03},
         { "month": 2, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 3, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 4, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 5, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 6, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 7, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 8, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 9, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 10, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 11, "kwh": 94, "price": 102.06, "unit": 1.02},
-        { "month": 12, "kwh": 94, "price": 102.06, "unit": 1.02}
+        { "month": 3, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 4, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 5, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 6, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 7, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 8, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 9, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 10, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 11, "kwh": 155, "price": 182.95, "unit": 1.01},
+        { "month": 12, "kwh": 155, "price": 182.95, "unit": 1.01}
 ]
